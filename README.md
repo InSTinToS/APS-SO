@@ -1,3 +1,22 @@
+## Integrantes do Grupo
+
+- Gabriel Augusto Nori
+
+  - RA: 125111363702
+  - Github: https://github.com/TycoonRaccoon
+    <br/>
+
+- Jean Aparecido Pinto Domingues
+
+  - RA: 125111362133
+  - Github: https://github.com/JeanDomingues
+    <br/>
+
+- Miguel Andrade Barreto
+
+  - RA: 125111367764
+  - Github: https://github.com/InSTinToS
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
